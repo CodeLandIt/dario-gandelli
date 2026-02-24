@@ -1,0 +1,114 @@
+[
+    {
+        "id": "1",
+        "available": true,
+        "brand": "Ariston",
+        "title": "Pellentesque aliquet suscipit ligula, eu porta orci tincidunt vitae",
+        "price": "1.350,00 €",
+        "originalPrice": "1.620,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "discountLabel": "-20%",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "2",
+        "available": true,
+        "brand": "Whirpool",
+        "title": "Nullam condimentum laoreet tempus",
+        "price": "899,00 €",
+        "extra": "Sopralluogo e installazione NON inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "3",
+        "available": true,
+        "brand": "LG",
+        "title": "Donec quis tincidunt felis",
+        "price": "480,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "4",
+        "available": true,
+        "brand": "Smeg",
+        "title": "Nullam condimentum laoreet tempus",
+        "price": "2150,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "5",
+        "available": false,
+        "brand": "Samsung",
+        "title": "Donec quis tincidunt felis, eu auctor felis. Nulla ornare lacus id ipsum semper maximus",
+        "price": "810,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "6",
+        "available": true,
+        "brand": "Bosh",
+        "title": "Pellentesque aliquet suscipit ligula, eu porta orci tincidunt vitae",
+        "price": "700,00 €",
+        "extra": "Sopralluogo e installazione NON inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "7",
+        "available": true,
+        "brand": "Smeg",
+        "title": "Nulla ornare lacus id ipsum semper maximus pellentesque aliquet suscipit ligula, eu porta orci tincidunt vitae",
+        "price": "1.624,00 €",
+        "originalPrice": "2.320,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "discountLabel": "-30%",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "8",
+        "available": false,
+        "brand": "Whirpool",
+        "title": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium",
+        "price": "899,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "9",
+        "available": true,
+        "brand": "Bosh",
+        "title": "Totam rem aperiam",
+        "price": "1500,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "10",
+        "available": true,
+        "brand": "Samsung",
+        "title": "Eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo",
+        "price": "740,00 €",
+        "extra": "Sopralluogo e installazione NON inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "11",
+        "available": false,
+        "brand": "Ariston",
+        "title": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam",
+        "price": "880,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    },
+    {
+        "id": "12",
+        "available": true,
+        "brand": "LG",
+        "title": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihi",
+        "price": "1300,00 €",
+        "extra": "Sopralluogo e installazione inclusi",
+        "image": "/images/product.jpg"
+    }
+]
